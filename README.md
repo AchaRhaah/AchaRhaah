@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Acha Rha'ah</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Bus reservation app**
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
