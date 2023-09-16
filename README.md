@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Acha Rha'ah</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS and React Native**
 
 - 📫 How to reach me **acharhaah2003@gmail.com**
 
