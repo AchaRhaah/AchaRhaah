@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **acharhaah2003@gmail.com**
 
-- ⚡ Fun fact **I love to do hair**
+- ⚡ Fun fact **I also love maaking creative hair styles to make people look and feel their best.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
